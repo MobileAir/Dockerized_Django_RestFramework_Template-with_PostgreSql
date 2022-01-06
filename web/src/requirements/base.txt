@@ -21,7 +21,7 @@ dj-rest-auth==2.1.7
 djangorestframework-simplejwt==4.7.1
 
 # For backend working
-celery==4.4.6
+celery==5.2.2
 
 # for react
 django-cors-headers==3.7.0
