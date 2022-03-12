@@ -36,7 +36,7 @@ uvicorn==0.15.0
 django-cacheops==6.0
 
 # ImageField
-pillow==9.0.0
+pillow==9.0.1
 
 # JsonLogger
 python-json-logger==2.0.1
