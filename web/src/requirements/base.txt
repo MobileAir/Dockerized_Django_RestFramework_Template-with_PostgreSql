@@ -59,4 +59,4 @@ django-admin-rangefilter==0.8.1
 
 # For FastApi
 fastapi==0.68.0
-ujson==5.1.0
+ujson==5.2.0
